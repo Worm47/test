@@ -8,6 +8,7 @@ lose = font1.render('YOU LOSE!', True, (180, 0, 0))
 
 font2 = font.Font(None, 36)
 
+#123123
 #фоновая музыка
 mixer.init()
 mixer.music.load('space.ogg')
